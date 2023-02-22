@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Github-Finder](https://github-finder-app-psi-neon.vercel.app/)
 
-- 💬 Ask me about **react.js ,javascript,OOP,C++,DataStructures ,Algorithms**
+- 💬 Ask me about **react.js , javascript , OOP , C++ , DataStructures , Algorithms**
 
 - 📫 How to reach me **mohamedhosam281@outlook.com**
 
