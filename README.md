@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hosam</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center"> front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam281&label=Profile%20views&color=0e75b6&style=flat" alt="hossam281" /> </p>
 
-- 🔭 I’m currently working on [Github-Finder](https://github-finder-app-psi-neon.vercel.app/)
 
-- 💬 Ask me about **react.js , javascript , OOP , C++ , DataStructures , Algorithms**
+- 📚 Currently learning data science ,  neural networks , and data security.
 
-- 📫 How to reach me **mohamedhosam281@outlook.com**
+- 💬 Ask me about **react.js , javascript , OOP , DataStructures , Algorithms**
+
+- 📫 Reach me @ **mohamedhosam281@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
