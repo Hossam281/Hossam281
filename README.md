@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam281&label=Profile%20views&color=0e75b6&style=flat" alt="hossam281" /> </p>
 
 
-- 📚 Currently learning data science ,  neural networks , and data security.
 
 - 💬 Ask me about **react.js , javascript , OOP , DataStructures , Algorithms**
 
