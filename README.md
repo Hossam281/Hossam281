@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam281&label=Profile%20views&color=0e75b6&style=flat" alt="hossam281" /> </p>
 
-- 💬 Ask me about **React.js , Javascript , OOP , DataStructures , Algorithms**
 
 - 📫 How to reach me **mohamedhosam281@outlook.com**
 
