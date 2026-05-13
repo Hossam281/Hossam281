@@ -82,11 +82,14 @@ Mid-level frontend engineer with 2+ years of experience building and shipping pr
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hossam281&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6&ring_color=3b82f6" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossam281&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8" width="38%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossam281&theme=github_dark" width="98%" />
 </div>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossam281&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hossam281&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hossam281&theme=github_dark" width="32%" />
+</div>
+
 
 <div align="center">
 
