@@ -1,56 +1,106 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hosam</h1>
-<h3 align="center">Frontend Engineer crafting scalable, SEO-friendly, and highly performant web experiences.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hossam281&label=Profile%20views&color=0e75b6&style=flat" alt="hossam281" />
-  <a href="https://linkedin.com/in/hossam281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin.com/in/hossam281/" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Mohamed%20Hosam&fontSize=42&fontColor=e2e8f0&fontAlignY=65&desc=Frontend%20Engineer&descSize=16&descAlignY=85&descColor=64748b" />
 
----
+</div>
 
-### 👨‍💻 About Me
+<div align="center">
 
-* [span_0](start_span)💻 Frontend Engineer with 2+ years of experience building scalable SaaS, ERP, and enterprise web applications using React, Vue 3, Next.js, and TypeScript[span_0](end_span).
-* [span_1](start_span)🚀 Skilled in frontend architecture, offline-first PWAs, RBAC systems, SSR/SSG rendering, API integrations, and performance tuning[span_1](end_span).
-* 🌐 Deeply passionate about the Vue 3 and Vite ecosystem, while actively expanding into React-based meta-frameworks. 
-* ⚡ I prioritize SEO-friendly, pre-rendered architectures and favor UI libraries that offer full code ownership, like shadcn/ui.
-* [span_2](start_span)🔧 Led legacy-to-modern frontend migrations, achieving a 30%+ performance gain while reducing technical debt[span_2](end_span).
-* [span_3](start_span)📫 Reach out to me: **mohamedhosam281@outlook.com**[span_3](end_span)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossam281/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hossam281)
+[![Email](https://img.shields.io/badge/Email-mohamedhosam281%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:mohamedhosam281@outlook.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hossam281&style=flat-square&color=475569&label=Profile+Views)](https://github.com/Hossam281)
+
+</div>
 
 ---
 
-
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+```ts
+const Mohamed = {
+  role      : "Frontend Engineer",
+  location  : "Cairo, Egypt 🇪🇬",
+  experience: "2+ years",
+  focus     : ["SaaS", "ERP", "Enterprise Web Apps"],
+  stack     : ["React", "Vue 3", "Next.js", "TypeScript"],
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+## ⚡ What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossam281&show_icons=true&theme=radical&hide_border=true" alt="hossam281's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossam281&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hossam281's Top Languages" width="48%" />
-</p>
+- 🏗️ **Architect** scalable frontend systems — multi-tenant ERPs, LMS platforms, and SaaS dashboards
+- 🔄 **Migrate** legacy frontends to modern stacks (Vue 3, React, Next.js) — with **30%+ performance gains**
+- 📦 **Build** offline-first PWAs with service workers, caching strategies, and sync logic
+- 🔐 **Implement** RBAC authorization systems, JWT auth flows, and secure role-based access
+- 🚀 **Own** frontend architecture decisions, CI/CD pipelines, and deployment workflows
+
+---
+
+## 🛠 Tech Stack
+
+**Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=eab308)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=3b82f6)
+
+**Frameworks & Libraries**
+
+![Vue 3](https://img.shields.io/badge/Vue_3-0f172a?style=flat-square&logo=vue.js&logoColor=42b883)
+![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0f172a?style=flat-square&logo=ant-design&logoColor=0170fe)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-0f172a?style=flat-square&logo=primevue&logoColor=41b883)
+
+**State Management**
+
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0f172a?style=flat-square&logo=redux&logoColor=764abc)
+![Zustand](https://img.shields.io/badge/Zustand-0f172a?style=flat-square&logo=react&logoColor=e2e8f0)
+![Pinia](https://img.shields.io/badge/Pinia-0f172a?style=flat-square&logo=vue.js&logoColor=ffd859)
+![React Query](https://img.shields.io/badge/React_Query-0f172a?style=flat-square&logo=react-query&logoColor=ef4444)
+
+**Architecture & Tooling**
+
+![PWA](https://img.shields.io/badge/Offline--first_PWA-0f172a?style=flat-square&logo=pwa&logoColor=5a0fc8)
+![SSR/SSG](https://img.shields.io/badge/SSR%2FSSG-0f172a?style=flat-square&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=f05032)
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=646cff)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0f172a?style=flat-square&logo=github-actions&logoColor=2088ff)
+
+---
+
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hossam281&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6&ring_color=3b82f6" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossam281&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8" width="38%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hossam281&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=3b82f6&fire=f97316&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=475569" width="55%" />
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Sc. Computer and Information Science** — Ain Shams University *(2023)*
+
+
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+
+</div>
