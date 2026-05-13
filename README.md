@@ -71,9 +71,9 @@ Mid-level frontend engineer with 2+ years of experience building and shipping pr
 
 ## 🗂 What I'm Into
 
-- 🎨 Building component libraries and design systems that scale
+- 🎨 Building component design systems that scale
 - ⚡ Optimizing rendering performance and bundle size
-- 🌐 Exploring SSR, SSG, and modern rendering patterns
+- 🌐 Implementing SSR, SSG, and modern rendering patterns
 - 🔧 Improving DX through better tooling, linting, and code structure
 - 📱 Crafting responsive, accessible interfaces across devices
 
