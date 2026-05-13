@@ -19,9 +19,8 @@
 const Mohamed = {
   role      : "Frontend Engineer",
   location  : "Cairo, Egypt 🇪🇬",
-  experience: "2+ years",
   stack     : ["React", "Vue 3", "Next.js", "TypeScript"],
-  interests : ["Web Performance", "Clean Architecture", "DX", "Open Source"],
+  interests : ["Web Performance", "Clean Architecture", "DX"],
   always    : "Writing clean code & shipping great UIs",
 };
 ```
@@ -30,7 +29,7 @@ const Mohamed = {
 
 ## ⚡ About Me
 
-Mid-level frontend engineer with 2+ years of experience building and shipping production web applications. I care deeply about clean component architecture, good developer experience, and UIs that are both fast and accessible. Comfortable working across the full frontend spectrum — from styling and state management to API integration and build tooling.
+Motivated frontend engineer with 2+ years of experience building and shipping production web applications. I care deeply about clean component architecture, good developer experience, and UIs that are both fast and accessible. Comfortable working across the full frontend spectrum — from styling and state management to API integration and build tooling.
 
 ---
 
