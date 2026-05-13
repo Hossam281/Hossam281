@@ -20,20 +20,17 @@ const Mohamed = {
   role      : "Frontend Engineer",
   location  : "Cairo, Egypt 🇪🇬",
   experience: "2+ years",
-  focus     : ["SaaS", "ERP", "Enterprise Web Apps"],
   stack     : ["React", "Vue 3", "Next.js", "TypeScript"],
+  interests : ["Web Performance", "Clean Architecture", "DX", "Open Source"],
+  always    : "Writing clean code & shipping great UIs",
 };
 ```
 
 ---
 
-## ⚡ What I Do
+## ⚡ About Me
 
-- 🏗️ **Architect** scalable frontend systems — multi-tenant ERPs, LMS platforms, and SaaS dashboards
-- 🔄 **Migrate** legacy frontends to modern stacks (Vue 3, React, Next.js) — with **30%+ performance gains**
-- 📦 **Build** offline-first PWAs with service workers, caching strategies, and sync logic
-- 🔐 **Implement** RBAC authorization systems, JWT auth flows, and secure role-based access
-- 🚀 **Own** frontend architecture decisions, CI/CD pipelines, and deployment workflows
+Mid-level frontend engineer with 2+ years of experience building and shipping production web applications. I care deeply about clean component architecture, good developer experience, and UIs that are both fast and accessible. Comfortable working across the full frontend spectrum — from styling and state management to API integration and build tooling.
 
 ---
 
@@ -72,7 +69,15 @@ const Mohamed = {
 
 ---
 
+## 🗂 What I'm Into
 
+- 🎨 Building component libraries and design systems that scale
+- ⚡ Optimizing rendering performance and bundle size
+- 🌐 Exploring SSR, SSG, and modern rendering patterns
+- 🔧 Improving DX through better tooling, linting, and code structure
+- 📱 Crafting responsive, accessible interfaces across devices
+
+---
 
 ## 📈 GitHub Stats
 
@@ -95,7 +100,12 @@ const Mohamed = {
 
 **B.Sc. Computer and Information Science** — Ain Shams University *(2023)*
 
-
+| Certificate |
+|---|
+| Advanced React |
+| Frontend Engineering Program |
+| Frontend Track — Web Technologies |
+| Frontend Internship |
 
 ---
 
