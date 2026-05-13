@@ -100,12 +100,7 @@ Mid-level frontend engineer with 2+ years of experience building and shipping pr
 
 **B.Sc. Computer and Information Science** — Ain Shams University *(2023)*
 
-| Certificate |
-|---|
-| Advanced React |
-| Frontend Engineering Program |
-| Frontend Track — Web Technologies |
-| Frontend Internship |
+
 
 ---
 
